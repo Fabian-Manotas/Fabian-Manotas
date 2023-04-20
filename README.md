@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from Colonbia</h3>
-<img align="center" alt="coding" width="400"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="coding" width="500"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left">
 </p>
 
