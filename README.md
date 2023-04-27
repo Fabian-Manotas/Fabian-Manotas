@@ -1,4 +1,4 @@
-<h3 align="left">A passionate frontend developer from Colonbia</h3>
+
 <center><img align=""alt="coding" width="500"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><center>
 
 <h3 align="left">Languages and Tools:</h3>
