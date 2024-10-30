@@ -26,6 +26,7 @@ I am an undergraduate Computer science and Engineering student. C, C++, Python, 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
+
 <h4> Frameworks </h4>
 <span>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
@@ -37,15 +38,17 @@ I am an undergraduate Computer science and Engineering student. C, C++, Python, 
 
 </span>
 
+
 <h4> Other Tools and Technologies </h4>
 <span>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">  
+<img src=" https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">  
 </span>
 
 
-  
 ## Check out my Social Media	
 <a target="_blank" href="https://www.linkedin.com/in/fabian-manotas-6a9401310/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/fabian_matnsx/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
