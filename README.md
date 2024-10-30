@@ -53,3 +53,12 @@ I am an undergraduate Computer science and Engineering student. C, C++, Python, 
 <a target="_blank" href="fdmanotas24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Fabian-Manotas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Fabian-Manotas)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Fabian-Manotas&theme=material-palenight)](https://github.com/Fabian-Manotas)
+</div>
+
+----
