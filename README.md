@@ -12,7 +12,7 @@ I am an undergraduate Computer science and Engineering student. C, C++, Python, 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, ⚽ I love soccer, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="fabiandavidmanotas@gmail.com">fabiandavidmanotas@gmail.com</a>
+- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/manotas-fabian"></a>
 
 ## My Skills Include
 
